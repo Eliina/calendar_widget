@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_string">Calendar account</string>
+    <string name="show_string">Rādīt lekcijas</string>
+</resources>
